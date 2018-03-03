@@ -1,0 +1,11 @@
+{
+  "name": "reddit_search",
+  "version": "1.0.0",
+  "description": "Reddit search application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A7xSV",
+  "license": "MIT"
+}
