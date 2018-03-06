@@ -13,3 +13,4 @@ parcel index.html
 
 # Compiled code in ./dist
 ```
+![Screenshot](https://raw.githubusercontent.com/A7xSV/Reddit-Search/master/Screenshots/Screenshot.png)
