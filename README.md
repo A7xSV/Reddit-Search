@@ -1,6 +1,7 @@
 # Reddit-Search
 A web application to facilitate Reddit search and display the results in a card layout
 
+This project uses ES6, fetch and parcel
 
 ## Quick Start
 
